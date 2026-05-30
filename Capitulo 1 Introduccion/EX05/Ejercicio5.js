@@ -54,3 +54,12 @@ document.writeln("Los resultados de las operaciones son: ",
   " residuo: ", residuo, "<br>",
   " potencia: ", potencia, "<br>"
 );
+
+console.log("Las operaciones resueltas son: ",
+  "suma: ", suma,
+  " resta: ", resta,
+  " multiplicacion: ", multiplicacion,
+  " division: ", division,
+  " residuo: ", residuo, 
+  " potencia: ", potencia, 
+);
